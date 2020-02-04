@@ -339,7 +339,7 @@ component.
 
 #### The Presentational Component
 
-We will leave the final task to you - buidling the `CatList` component. Your
+We will leave the final task to you - building the `CatList` component. Your
 container component, `App`, should render the`CatList` component. `App` will
 pass `catPics` down to `CatList` as a prop. `CatList` should iterate over the
 cat pics and display each cat pic in an image URL. Remember to use `debugger` to
