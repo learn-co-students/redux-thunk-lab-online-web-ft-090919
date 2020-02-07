@@ -17,4 +17,4 @@ const CatList = ({ catPics }) => {
 	);
 };
 
-export default CatList;Pics =>
+export default CatList;
