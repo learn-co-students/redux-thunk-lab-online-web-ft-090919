@@ -35,4 +35,5 @@ const mapDispatchToProps = dispatch => {
 }
 
 export default connect(mapStateToProps, mapDispatchToProps)(App)
-
+// alternate
+// export default connect(mapDispatchToProps, { fetchCats })(App)
