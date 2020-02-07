@@ -1,5 +1,7 @@
 // write your CatList component hereimport React from 'react';
 
+import React from "react";
+
 class CatList extends React.Component {
   listCats = () => {
     return this.props.catPics.map(cat => (
